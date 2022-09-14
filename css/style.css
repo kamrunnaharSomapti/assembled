@@ -1093,7 +1093,7 @@ footer----------
   display: flex;
   flex-direction: column;
   text-align: center;
-  margin: 57px auto;
+  /* margin: 57px auto; */
 }
 footer .bottom-details .bottom_text {
   font-family: "Comfortaa", cursive;
@@ -2295,4 +2295,40 @@ h3.service-one__title {
 .ai-boxes-cus-height {
   height: 100px;
   /* border: 1px solid black; */
+}
+/* our products and services text box height */
+.box-bg-ps {
+  padding: 40px;
+  background: #00000014;
+}
+.px-box-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #0000003b;
+  height: 100%;
+  align-items: end;
+  padding: 6px;
+}
+.ps-image-holding img {
+  max-width: 200px;
+}
+.ps-description-holding {
+  margin: 3px 10px;
+}
+
+.ps-service-one__text {
+  height: auto;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 14px;
+  color: white;
+}
+.upper-half-ps {
+  margin-right: 30px;
+}
+.ps-service-one__text li {
+  margin-bottom: 5px;
+}
+.ps-service-one__text li:last-child {
+  margin-bottom: 0px;
 }
