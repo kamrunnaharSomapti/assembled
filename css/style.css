@@ -2313,6 +2313,9 @@ h3.service-one__title {
 .ps-image-holding img {
   max-width: 200px;
 }
+.ps-image-holding2 img {
+  max-width: 100px;
+}
 .ps-description-holding {
   margin: 3px 10px;
 }
