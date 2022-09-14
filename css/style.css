@@ -2046,7 +2046,6 @@ span.tris-heading-highlight-two::after {
   align-items: center;
   background: #0000003b;
   padding: 10px;
-  margin-bottom: 6px;
 }
 .ai-boxes p {
   margin-left: 6px;
@@ -2295,6 +2294,7 @@ h3.service-one__title {
 .ai-boxes-cus-height {
   height: 100px;
   /* border: 1px solid black; */
+  margin-bottom: 15px;
 }
 /* our products and services text box height */
 .box-bg-ps {
