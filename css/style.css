@@ -2266,3 +2266,19 @@ h3.service-one__title {
     display: block;
   }
 }
+.service-first-half {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.custom-body-to-less-space {
+  font-size: 13px;
+  text-align: justify;
+  text-align-last: left;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  word-spacing: -0.05em;
+  font-family: "Roboto Condensed", sans-serif;
+}
